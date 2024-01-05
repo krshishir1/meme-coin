@@ -1,10 +1,11 @@
 import './App.css'
+import Home from './pages/Home'
 
 function App() {
 
   return (
     <>
-      <h2>This is memecoin created by Shishir</h2>
+      <Home />
     </>
   )
 }
